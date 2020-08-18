@@ -1,0 +1,1 @@
+[[wT1, wP1, wL1, wD, wK, wL2, wP2, wT2], [wB1, wB2, wB3, wB4, wB5, wB6, wB7, wB8], [ ,  ,  ,  ,  ,  ,  ,  ], [ ,  ,  ,  ,  ,  ,  ,  ], [ ,  ,  ,  ,  ,  ,  ,  ], [ ,  ,  ,  ,  ,  ,  ,  ], [sB1, sB2, sB3, sB4, sB5, sB6, sB7, sB8], [sT1, sP1, sL1, sD, sK, sL2, sP2, sT2]]
